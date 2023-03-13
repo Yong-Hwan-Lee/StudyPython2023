@@ -63,11 +63,11 @@ print(f'파이는 {pi:10.3f}입니다.')      #파이는          3.142입니다
         - 객체지향 특징
         - 상속, 다중 상속
 2. 파이썬 응용
-    - 주소록 프로그램 [소스](https://github.com/YongHwanLee97/StudyPython2023/blob/main/Project/address_app.py)
+    - 주소록 프로그램 [소스](https://github.com/Yong-Hwan-Lee/StudyPython2023/blob/main/Project/address_app.py)
     
 
 
-![실행화면](https://raw.githubusercontent.com/YongHwanLee97/StudyPython2023/main/Images/address.png)
+![실행화면](https://raw.githubusercontent.com/Yong-Hwan-Lee/StudyPython2023/main/Images/address.png)
 실행화면
 
 ## 7일차
@@ -87,7 +87,7 @@ print(f'파이는 {pi:10.3f}입니다.')      #파이는          3.142입니다
         - 데이터포털 OpenAPI 크롤링
         - BeautifulSoup 크롤링
 
-![실행화면](https://raw.githubusercontent.com/YongHwanLee97/StudyPython2023/main/Images/jupyter_folium.png)
+![실행화면](https://raw.githubusercontent.com/Yong-Hwan-Lee/StudyPython2023/main/Images/jupyter_folium.png)
 
 Folium OpenAPI 연동화면
 
@@ -105,7 +105,7 @@ Folium OpenAPI 연동화면
             - PyQt 위젯 계속
             - PyQt 다이얼로그
 
-![실행화면](https://raw.githubusercontent.com/YongHwanLee97/StudyPython2023/main/Images/dialog.png)
+![실행화면](https://raw.githubusercontent.com/Yong-Hwan-Lee/StudyPython2023/main/Images/dialog.png)
 
 PyQt 실행화면
 
